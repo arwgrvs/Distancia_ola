@@ -13,4 +13,6 @@ int main()
 
     cout<<"La distancia es: "<<d<<"\n";
     cout <<"Autor: arwgrvs\n";
+    cout<<"14/10/2024\n";
+
 }
